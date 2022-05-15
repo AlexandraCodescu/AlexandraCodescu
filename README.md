@@ -13,13 +13,14 @@ I am an UI/UX enthusiast with a great passion for technology.
 
 - 📫 How to reach me **alexandra.codescu91@gmail.com**
 
-- 💼 Find more about my and my work: https://github.com/
+- 💼 Find more about my and my work: **https://github.com/**
 
 - ❤️ I like playing racket sports and reading psychology books
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alexandra-codescu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexandra-codescu" height="30" width="40" /></a>
+  <a href="mailto:alexandra.codescu91@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/344/external-gmail-social-media-justicon-flat-justicon.png" alt="alexandra.codescu91@gmail.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
