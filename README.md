@@ -13,7 +13,7 @@ I am an UI/UX enthusiast with a great passion for technology.
 
 - 📫 How to reach me **alexandra.codescu91@gmail.com**
 
-- 💼 Find more about my and my work: **https://github.com/**
+- 💼 Find more about my and my work: **[Personal website](https://alexandracodescu.github.io/)**
 
 - ❤️ I like playing racket sports and reading psychology books
 
